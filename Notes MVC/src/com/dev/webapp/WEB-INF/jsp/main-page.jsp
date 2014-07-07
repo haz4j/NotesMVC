@@ -4,13 +4,25 @@
 
 <html>
 <head>
+<!-- <link href="http://localhost:8080/Notes_MVC/css/style.css" type="text/css" rel="stylesheet" /> -->
+<style>
+
+body{
+font-family: Tahoma, sence-serif;
+}
+.data td{border-bottom: 1px solid #ccc ; padding: 5px 0;}
+.data{ width: 800px; margin: 0 auto;}
+h3 {text-align: center;}
+p {text-align: center;}
+
+</style>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Notebook</title>
 </head>
 <body>
 
-<h3>New note</h3>
-<a href="add">Add new note</a>
+<h3>Notebook</h3>
+<p><a href="add">Add new note</a></p>
 
 	<table class="data">
 		<tr>

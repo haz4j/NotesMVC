@@ -4,6 +4,7 @@
 
 <html>
 <head>
+<link href="http://localhost:8080/Notes_MVC/css/style.css" type="text/css" rel="stylesheet" >
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
